@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <variable
+            name="model"
+            type="com.tennine.app.model.PostModel" />
+
+        <variable
+            name="listener"
+            type="com.tennine.app.listener.OnProfilePostListener" />
+    </data>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.tennine.app.utils.SquareImageView
+            android:id="@+id/ivProfilePost"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_100sdp"
+            android:setPostImage="@{model.postImage}"
+            android:scaleType="centerCrop"
+            android:onClick="@{()->listener.userView(model)}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

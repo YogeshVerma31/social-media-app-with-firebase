@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">251963698301-ierctj5mbbq9d27jlt9g3an3ralq43a4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">251963698301</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkgKcwTIktU-RTFS1aqr2cAdCxpjdPfWI</string>
+    <string name="google_app_id" translatable="false">1:251963698301:android:5a81849aac1c422469d514</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkgKcwTIktU-RTFS1aqr2cAdCxpjdPfWI</string>
+    <string name="google_storage_bucket" translatable="false">tennine-371b8.appspot.com</string>
+    <string name="project_id" translatable="false">tennine-371b8</string>
+</resources>

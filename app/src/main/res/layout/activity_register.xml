@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".activity.ui.Register">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv_profile_photo"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:src="@drawable/user"
+        app:civ_border_color="#774444"
+        app:civ_border_width="2dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Register"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivBack" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Create your account .it's free and only takes few seconds"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.526"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+
+    <EditText
+        android:id="@+id/edtFirstName"
+        android:layout_width="130dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/editablebordercolor"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="First name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_profile_photo"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/edtUserName"
+        android:layout_width="130dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/editablebordercolor"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="User name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/edtFirstName"
+        app:layout_constraintTop_toBottomOf="@+id/edtLastName" />
+
+
+    <TextView
+        android:id="@+id/tvCheckAvailability"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:clickable="true"
+        android:text="Check Availability"
+        android:textColor="@color/black"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@+id/edtUserName"
+        app:layout_constraintStart_toStartOf="@+id/edtUserName"
+        app:layout_constraintTop_toBottomOf="@+id/edtUserName" />
+
+    <ProgressBar
+        android:id="@+id/pbUserNameAvailability"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:indeterminateTint="@color/black"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/tvCheckAvailability"
+        app:layout_constraintEnd_toEndOf="@+id/tvCheckAvailability"
+        app:layout_constraintStart_toStartOf="@+id/tvCheckAvailability"
+        app:layout_constraintTop_toTopOf="@+id/tvCheckAvailability" />
+
+
+    <EditText
+        android:id="@+id/edtLastName"
+        android:layout_width="130dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/editablebordercolor"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Last name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        app:layout_constraintBottom_toBottomOf="@+id/edtFirstName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/edtFirstName"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/edtGender"-->
+    <!--        android:layout_width="143dp"-->
+    <!--        android:layout_height="34dp"-->
+    <!--        android:layout_marginTop="48dp"-->
+    <!--        android:background="@drawable/editablebordercolor"-->
+    <!--        android:ems="10"-->
+    <!--        android:visibility="gone"-->
+    <!--        android:gravity="center"-->
+    <!--        android:hint="Gender"-->
+    <!--        android:inputType="textPersonName"-->
+    <!--        android:minHeight="48dp"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textColorHint="@color/grey"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.498"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/edtUserName"-->
+    <!--        tools:ignore="TouchTargetSizeCheck" />-->
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/editTextTextPersonName4"-->
+    <!--        android:layout_width="130dp"-->
+    <!--        android:layout_height="34dp"-->
+    <!--        android:layout_marginStart="20dp"-->
+    <!--        android:layout_marginTop="48dp"-->
+    <!--        android:background="@drawable/editablebordercolor"-->
+    <!--        android:ems="10"-->
+    <!--        android:gravity="center"-->
+    <!--        android:hint="State"-->
+    <!--        android:inputType="textPersonName"-->
+    <!--        android:minHeight="48dp"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textColorHint="@color/grey"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName3"-->
+    <!--        tools:ignore="TouchTargetSizeCheck" />-->
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/editTextTextPersonName5"-->
+    <!--        android:layout_width="130dp"-->
+    <!--        android:layout_height="34dp"-->
+    <!--        android:layout_marginStart="24dp"-->
+    <!--        android:layout_marginEnd="20dp"-->
+    <!--        android:background="@drawable/editablebordercolor"-->
+    <!--        android:ems="10"-->
+    <!--        android:gravity="center"-->
+    <!--        android:hint="City"-->
+    <!--        android:inputType="textPersonName"-->
+    <!--        android:minHeight="48dp"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textColorHint="@color/grey"-->
+    <!--        app:layout_constraintBottom_toBottomOf="@+id/editTextTextPersonName4"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="1.0"-->
+    <!--        app:layout_constraintStart_toEndOf="@+id/editTextTextPersonName4"-->
+    <!--        app:layout_constraintTop_toTopOf="@+id/editTextTextPersonName4"-->
+    <!--        app:layout_constraintVertical_bias="1.0"-->
+    <!--        tools:ignore="TouchTargetSizeCheck" />-->
+
+    <TextView
+        android:id="@+id/tvDOB"
+        android:layout_width="160dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/editablebordercolor"
+        android:gravity="center"
+        android:hint="DD/MM/YYYY"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvCheckAvailability"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/tvCheckAvailability"
+        app:layout_constraintTop_toBottomOf="@+id/tvCheckAvailability"
+        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/butongradient"
+        android:text="Submit"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvDOB" />
+
+    <ImageView
+        android:id="@+id/ivBack"
+        android:layout_width="34dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/leftarrow" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

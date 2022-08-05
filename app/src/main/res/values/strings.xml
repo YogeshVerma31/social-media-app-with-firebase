@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tennine</string>
+    <string name="logo">TODO</string>
+    <string name="logo2">TODO</string>
+    <string name="title_activity_notification">notification</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="more">more</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="type_a_message">Type a message</string>
+
+    <string name="share_link_and_invite_friends">Share link and invite Friends</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="setting">Setting</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+</resources>

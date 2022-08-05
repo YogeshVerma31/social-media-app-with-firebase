@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_post.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_comments.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reels.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_reels.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_friends.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_friends.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_flowing.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_flowing.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_newcredentials.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_newcredentials.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notificationtab_layout.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\notificationtab_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_following_followers.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_following_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_googlefacebookphone.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_googlefacebookphone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_friends_follow_following.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friends_follow_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setting.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_post_reels.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_post_reels.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_profile.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otp_verification.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_otp_verification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_friends_followers.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_friends_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otp_phone.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_otp_phone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_congratulations.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_congratulations.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_loginwithnumberinsted.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_loginwithnumberinsted.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_seta_passwordphone.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_seta_passwordphone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_notification.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_friends.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friends.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splashscreen1.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_splashscreen1.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\public_account_view.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\public_account_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_video.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_following.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_profile.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_following.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_comments.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_comments.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_item_notification_a.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_item_notification_a.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\private_account_view.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\private_account_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_user_profile.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_make_selection.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profile_post.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_profile_post.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up_login.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_sign_up_login.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_friend_profile.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friend_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_layout.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_home_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_layout.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\chat_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_friends_followers.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_friends_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_followers.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_items_notificaiton_b.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_items_notificaiton_b.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_notification.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_feed_view.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_feed_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_friends_following.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_friends_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\photo_layout_update.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\photo_layout_update.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_password_updated.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_password_updated.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_follower.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_follower.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_codeverification.xml",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_codeverification.xml"
+    }
+]

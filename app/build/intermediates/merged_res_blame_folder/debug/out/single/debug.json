@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_followers.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttonbackground.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_line.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\line.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_popcorn.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\popcorn.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_setting.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_yogesh.jpg.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\yogesh.jpg"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_following.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_play.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_swag.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\swag.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_tab_items_notificaiton_b.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_items_notificaiton_b.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_make_selection.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_following_followers.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_following_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Tennine\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_borderconstraint.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\borderconstraint.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_googlefacebookphone.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_googlefacebookphone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_dolphin.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\dolphin.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_congratulations.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_congratulations.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_photo_layout_update.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\photo_layout_update.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_newcredentials.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_newcredentials.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_hashtag.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\hashtag.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_layoutcorner.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\layoutcorner.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_comments.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_comments.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_friends_following.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_friends_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_update.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\update.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_send.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-mdpi\\ic_send.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_friends_follow_following.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friends_follow_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_chatbackground.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\chatbackground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_friends_followers.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\fragment_friends_followers.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_profile.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_cardiewbackground.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\cardiewbackground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgrounforeditprofile.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\backgrounforeditprofile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background_cat_input.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-mdpi\\background_cat_input.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_butongradient.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xhdpi\\butongradient.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_otp_verification.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_otp_verification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_four_star.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\four_star.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_home.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_notification.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_phone.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_camera_24.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_baseline_camera_24.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_facebook.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_feed_view.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_feed_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_share.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\share.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttonborder.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\buttonborder.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_search.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tick.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\tick.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splashscreen1.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_splashscreen1.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_two_star.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\two_star.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_notifications.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_chatedittextviewbackground.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\chatedittextviewbackground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tenninene.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\tenninene.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_friend_profile.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friend_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_turtle.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xxxhdpi\\turtle.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_one_star.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\one_star.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_password_updated.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_password_updated.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittextsearchborder.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\edittextsearchborder.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_post.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_leftarrow.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\leftarrow.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_seta_passwordphone.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_seta_passwordphone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_searchg.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_searchg.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_label.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\label.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lockicons.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_lockicons.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_splashscreen.jpeg.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\splashscreen.jpeg"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tenninlogo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\tenninlogo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_private_account_view.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\private_account_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_email.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\email.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_profile_post.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_profile_post.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_layout.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\chat_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_imageborder.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\imageborder.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_tab_item_notification_a.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_item_notification_a.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_groupchat.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\groupchat.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_newcrenditial.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\newcrenditial.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_friends.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_friends.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_follower.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_follower.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_heart.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\heart.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up_login.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_sign_up_login.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_public_account_view.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\public_account_view.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout-v26_activity_otp_phone.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout-v26\\activity_otp_phone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_play.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\play.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_search.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\search.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tennine.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\tennine.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_comments.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_notificationtab_layout.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\notificationtab_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_user_profile.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_three_star.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\three_star.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_post_reels.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_post_reels.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_comment.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\comment.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_five_star.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\five_star.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_imageborder.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\imageborder.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_user.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ring.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\ring.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_homebackground.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\homebackground.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_friends.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_friends.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pngnumber.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\pngnumber.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_like.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\background_like.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_tab_flowing.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\tab_flowing.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_editablebordercolor.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\editablebordercolor.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_loginwithnumberinsted.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_loginwithnumberinsted.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_stroke.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\background_stroke.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_codeverification.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_codeverification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reels.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_reels.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_otp_phone.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_otp_phone.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_video.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_home_layout.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_home_layout.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ok.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\ok.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_following.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_following.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_dashboard.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\dashboard.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_phone.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\phone.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_chat.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\chat.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_turtle.png.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable-v24\\turtle.png"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notification.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_google.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "E:\\Tennine\\app\\build\\intermediates\\merged_res\\debug\\layout_item_friends_followers.xml.flat",
+        "source": "E:\\Tennine\\app\\src\\main\\res\\layout\\item_friends_followers.xml"
+    }
+]
