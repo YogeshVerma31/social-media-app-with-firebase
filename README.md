@@ -1,3 +1,6 @@
+# Tennine
+#### Social Media App
+- Developed by Yogesh Verma
 # social-media-app-with-firebase
 It is Freelancing project name is tennine social media 
 
@@ -35,3 +38,4 @@ This is the sibling of the sdp size unit that should be used for non text views.
 <br/>
 <br/>
 [Dexter Library](https://github.com/Karumi/Dexter) - Dexter is an Android library that simplifies the process of requesting permissions at runtime. 
+
